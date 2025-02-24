@@ -1,0 +1,12 @@
+label.mbg-options-label{
+	float: left;
+	width: 200px;
+}
+
+#mbg-settings h3{
+	padding-top: 1.7em;
+}
+
+#mbg-settings input[type=checkbox]{
+	margin-right: 0.5em;
+}
